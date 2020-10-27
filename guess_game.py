@@ -16,7 +16,7 @@ def play():
             continue
 
         if user_guess > random_int:
-            print("Your number is more than the number we guessed.")
+            print("Your number is more than the number we guessed. Guess again")
             continue
 
 
