@@ -21,5 +21,5 @@ def play():
 
 
 if __name__ == '__main__':
-
+    print("Ik heb iets aangepast! Grtz, J.")
     play()
