@@ -22,4 +22,5 @@ def play():
 
 if __name__ == '__main__':
     print("Ik heb iets aangepast! Grtz, J.")
+    print("En nog een print, omdat het zo plezant is!")
     play()
